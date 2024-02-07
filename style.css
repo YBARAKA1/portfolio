@@ -327,7 +327,7 @@ nav ul li a:hover::after {
     text-align: center;
     background: #45076c;
     margin-top: 30px;
-    width: 60%;
+    width: 50%;
 
 }
 .contact-right form{
@@ -335,7 +335,7 @@ nav ul li a:hover::after {
 
 }
 form input, form textarea {
-    width: 100%;
+    width: 70%;
     border: 0;
     outline: none ;
     background: #1e1324;
