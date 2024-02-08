@@ -370,12 +370,12 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
     #header {
-        margin-top: 30px ;
+        margin-top: 20px ;
         
     }
     .header-text {
         position: absolute;
-        top: 61%;
+        top: 51%;
         left: 50%;
         transform: translate(-50%, -50%);
         width: 80%; 
@@ -399,6 +399,15 @@ nav .fa-solid {
         padding-top: 50px;
         z-index: 2;
         transition: right 0.5s;
+    }
+    #services{
+        padding-top: 0px;
+        padding-bottom: 70px;
+        
+    }
+    #About{
+        padding-top: 100px;
+        padding-bottom: 10px;
     }
     nav ul li {
         display: block;
@@ -432,6 +441,16 @@ nav .fa-solid {
     .copyright{
         font-size: 14px;
     }
+    .work-list {
+        margin-bottom: 10px; 
+    }
+
+    .btn {
+        padding-bottom: 0px;
+        margin-top: -10px;
+    }
+    
+
 }
 #msg{
     color: #66147f;
